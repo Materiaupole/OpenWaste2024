@@ -170,35 +170,3 @@ Les manquements sont classés selon quatre niveaux de gravité :
 
 Pour plus de détails sur les manquements et les sanctions, veuillez vous référer au règlement de vie de campus. 
 
-Recopier à la main “J’ai lu et je m’engage à respecter la présente charte d’utilisation du Fablab”
-
-.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
-
-
-.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
-
-
-## Fait à la Lieusaint, le  .  .  .  .  .  .  .  .  .  .  .  .  .  .
-
-## 
-
-## Nom, promo et signature de l’utilisateur
-
-## 
-
-## 
-
-Recopier à la main “J’ai lu et je m’engage à respecter la présente charte d’utilisation du Fablab”
-
-.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
-
-
-.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
-
-
-## Fait à la Lieusaint, le  .  .  .  .  .  .  .  .  .  .  .  .  .  .
-
-## 
-
-## Nom, promo et signature de l’utilisateur
-
