@@ -48,9 +48,9 @@ Il est possible dans des cas très précis de sortir des outils du Fablab aux co
 
 Le Fablab est équipé de caméras de surveillance pour assurer la sécurité des utilisateurs et des équipements. Les images capturées sont conservées pendant une période maximale de deux semaines. Passé ce délai, elles sont automatiquement supprimées. Ces enregistrements ne seront en aucun cas diffusés ou partagés à l’extérieur de l’Icam, sauf en cas de nécessité légale.
 
-3. # **Les zones du Fablab**
+3. **Les zones du Fablab**
 
-# Le Fablab est organisé en trois zones identifiées par leur couleur :
+Le Fablab est organisé en trois zones identifiées par leur couleur :
 
 1. **Zone Bleue \- Ressourcerie :** Espace dédié au recyclage et à la réutilisation de matériaux et d'équipements.  
    1. Tout le matériel présent dans les zones bleues est accessible à tous les utilisateurs du Fablab.  
@@ -84,7 +84,7 @@ Les projets réalisés lors des ouvertures au public ne peuvent être couverts d
 
 Les utilisateurs des machines s’engagent à utiliser des fichiers numériques libres de droit et/ou créés par l’utilisateur et/ou cédés à son droit.
 
-6. # **Utilisation des équipements du Fablab**
+6. **Utilisation des équipements du Fablab**
 
 D’une manière générale, il est interdit pour l’utilisateur d’utiliser les équipements du Fablab sans en avoir fait la demande au préalable auprès du Responsable, sans la présence d’un FabManager et sans être formé sur les machines. 
 
@@ -92,7 +92,7 @@ Il est également interdit de faire du travail manuel sur les tables accueillant
 
 Il est interdit de débrancher les équipements électriques ou de réaménager les tables. Les chaises ou tabourets déplacés doivent être remis à leur place d’origine à la fin de la séance de travail.
 
-1. ## ***IMPRIMANTES 3D***
+1.  ***IMPRIMANTES 3D***
 
 L’imprimante 3D permet à l’utilisateur de fabriquer des objets sur mesure avec différentes matières.
 
@@ -118,7 +118,7 @@ L’utilisateur doit ranger les différents équipements et matériaux, et s’a
 
 L’utilisateur doit obligatoirement rester dans la zone rouge pendant l'exécution des tâches de découpe ou de gravure afin de s'assurer que le filtre n’est pas saturé ou que le support n’est pas en train de brûler. En cas de saturation, la tâche doit être mise en pause et un FabManager doit être contacté pour le nettoyage ou le remplacement du filtre. 
 
-3. ## ***FRAISEUSE NUMÉRIQUE***
+3. ***FRAISEUSE NUMÉRIQUE***
 
 La fraiseuse numérique permet à l’utilisateur d’usiner des pièces en matériaux tendres (bois, plastiques, cire usinable, aluminium) ainsi que des PCB (cartes électroniques).
 
@@ -128,7 +128,7 @@ Il est interdit de lancer un usinage si le capot est ouvert ou d’essayer d’o
 
 L’utilisateur doit ranger les équipements et nettoyer l’espace de travail avant de partir.
 
-4. ## ***ESPACE ELECTRONIQUE***
+4. ***ESPACE ELECTRONIQUE***
 
 L’espace électronique permet à l’utilisateur d’avoir accès à des équipements permettant la réalisation de prototype électroniques.
 
@@ -138,7 +138,7 @@ Le déplacement des équipements (GBF, Oscilloscope, Générateur DC) est interd
 
 L’utilisateur doit ranger les équipements et les câbles à leur endroit approprié (soit la barre présente dans chaque paillasse pour les câbles, soit au plateau d’outils électroniques) et nettoyer l’espace de travail avant de partir.
 
-5. ## ***ATELIER BOIS***
+5. ***ATELIER BOIS***
 
 L’espace d’assemblage permet à l’utilisateur de donner vie à son projet en s’aidant d’outils présents dans l’armoire, de perceuses, visseuses, scies, etaux et établis.
 
@@ -146,9 +146,9 @@ L’espace d’assemblage permet à l’utilisateur de donner vie à son projet 
 
 L’utilisateur doit ranger les équipements et nettoyer l’espace de travail avant de partir.
 
-6. ## ***ESPACE IDEATION***
+6. ***ESPACE IDEATION***
 
-## L’espace idéation permet à l’utilisateur de formaliser son idée avant de se lancer dans la réalisation d’un prototype.
+L’espace idéation permet à l’utilisateur de formaliser son idée avant de se lancer dans la réalisation d’un prototype.
 
 L’utilisateur, via la machine virtuelle “VMware”, a accès aux outils lui permettant de travailler à la conception de son modèle.
 
@@ -156,7 +156,7 @@ Il est interdit de faire du travail manuel dans l’espace idéation, des établ
 
 L’utilisateur doit ranger les équipements, remettre la salle dans sa configuration initiale et la nettoyer avant de partir. 
 
-7. # **Les manquements et les sanctions**
+7. **Les manquements et les sanctions**
 
 Les manquements sont classés selon quatre niveaux de gravité :
 
